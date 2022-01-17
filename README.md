@@ -1,5 +1,5 @@
 # Stock-Analysis
-*Which stock is best for Steve's parents?*
+**Which stock is best for Steve's parents?**
 ***Project Overview***
 Steve seeks to assist his parents determine stock which would provide the best return for his parents. From an array of 12 stocks, with our assistance, Steve deploying excel and VBA programming found out that the Daqo stocks dropped over 63% in 2018. We would refactor using same data to analyse the stock to seive out the best for Steve's parents.
 
@@ -8,7 +8,7 @@ VSLR had the highest daily volume of 3306038200 with the least drop in return of
 
 
 
-*** Advantages of refactoring code***
+***Advantages of refactoring code***
 to improve the design and structure of the software without affecting the essence and simultneouldy preservig the functionality of the code.
 
 
